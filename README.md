@@ -19,6 +19,6 @@ requests	API requests for quotes and images
 
 🤝 Contribute
 Pull requests are welcome!
-Make sure your code is clean and documented.
+Make sure your code is clean and documented!
 
 
